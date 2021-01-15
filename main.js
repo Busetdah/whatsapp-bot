@@ -101,11 +101,11 @@ client.on('message_create', async(msg) => {
             msg.delete(true)
             exec("cd public && " + msg.body.replace("!term ", ""), (error, stdout, stderr) => {
                 if (error) {
-                    client.sendMessage(msg.to, "*whatsbot~:* ```" + error + "```")
+                    client.sendMessage(msg.to, "*whatsapp-bot~:* ```" + error + "```")
                 } else if (stderr) {
-                    client.sendMessage(msg.to, "*whatsbot~:* ```" + stderr + "```")
+                    client.sendMessage(msg.to, "*whatsapp-bot~:* ```" + stderr + "```")
                 } else {
-                    client.sendMessage(msg.to, "*whatsbot~:* ```" + stdout + "```")
+                    client.sendMessage(msg.to, "*whatsapp-bot~:* ```" + stdout + "```")
                 }
             })
 
@@ -290,7 +290,7 @@ client.on('disconnected', (reason) => {
 });
 
 app.get('/', (req, res) => {
-    res.send('<h1>This server is powered by Whatsbot<br><a href="https://github.com/TheWhatsBot/WhatsBot">https://github.com/TheWhatsBot/WhatsBot</a></h1>')
+    res.send('<h1>This server is powered by Whatsapp-bot<br><a href="https://github.com/Busetdah/whatsapp-bot">https://github.com/Busetdah/whatsapp-bot</a></h1>')
 })
 
 app.use('/public', express.static('public'), serveIndex('public', { 'icons': true })) // public directory will be publicly available

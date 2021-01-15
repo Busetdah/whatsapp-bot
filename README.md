@@ -1,30 +1,7 @@
 <h1 align="center">
-  <a href="https://github.com/TheWhatsBot/WhatsBot"><img src="https://telegra.ph/file/96ccad5945c18944c5f15.png" alt="whatsbot" width="290"></a>
-  <br>
-<b>Whatsbot</b>
+<b>Whatsapp-bot</b>
 </h1>
 <h4 align="center">Moduler Userbot for Whatsapp</h4>
-<br>
-<p align="center">
-<a href="https://github.com/TheWhatsBot/WhatsBot/releases">
-    <img src="https://shields.io/badge/WHATSBOT-Version--1.0.0-red?logo=whatsapp&style=for-the-badge"
-         alt="Version"></a><br>
-   <a href="https://github.com/TheWhatsBot/WhatsBot/wiki">
- <img src="https://shields.io/badge/WIKI-red?style=for-the-badge"alt="Wiki"></a>
-  <a href="https://github.com/TheWhatsBot/WhatsBot/wiki/Demo">
- <img src="https://shields.io/badge/DEMO-red?style=for-the-badge"alt="Demo"></a>
-    <a href="#deploy-">
-<img src="https://shields.io/badge/DEPLOY-red?style=for-the-badge"alt="Deploy"></a>
-    <a href="#credits-">
-<img src="https://shields.io/badge/Credits-red?style=for-the-badge"alt="Credits"></a>
-   <a href="#inspiration-">
- <img src="https://shields.io/badge/Inspiration-red?style=for-the-badge"alt="Inspiration"></a>
-   <a href="#develop-">
- <img src="https://shields.io/badge/Develop-red?style=for-the-badge"alt="Develop"></a><br>
-    <a href="https://github.com/cachecleanerjeet">
-<img src="https://shields.io/badge/MADE WITH ♥ BY-TUHIN-red?style=for-the-badge"alt="Deploy"></a>
-</p>
-
 <br>
 
 ### Features :
@@ -51,15 +28,15 @@
 
 
 ### Deploy :
-[![Deploy with Heroku](https://www.herokucdn.com/deploy/button.svg "Deploy with Heroku")](https://heroku.com/deploy?template=https://github.com/TheWhatsBot/WhatsBot "Deploy with Heroku")<br>
-Read the [wiki](https://github.com/TheWhatsBot/WhatsBot/wiki/Deploy-with-Heroku) before Deploy it with Heroku<br><br>
-[Deploy in VPS](https://github.com/TheWhatsBot/WhatsBot/wiki/Deploy-in-VPS)
+[![Deploy with Heroku](https://www.herokucdn.com/deploy/button.svg "Deploy with Heroku")](https://heroku.com/deploy?template=https://github.com/Busetdah/whatsapp-bot "Deploy with Heroku")<br>
+Read the [wiki](https://github.com/Busetdah/whatsapp-bot/wiki/Deploy-with-Heroku) before Deploy it with Heroku<br><br>
+[Deploy in VPS](https://github.com/Busetdah/whatsapp-bot/wiki/Deploy-in-VPS)
 
 ### Commands :
-*Send <code>!help</code> in Anywhere. Or read this [Command's Wiki](https://github.com/TheWhatsBot/WhatsBot/wiki/Commands "Command's Wiki")*
+*Send <code>!help</code> in Anywhere. Or read this [Command's Wiki](https://github.com/Busetdah/whatsapp-bot/wiki/Commands "Command's Wiki")*
 
 ### Develop :
-*You can develop your own module for Whatsbot. Check out the [wiki](https://github.com/TheWhatsBot/WhatsBot/wiki/Development), It is very easy if you know Javascript.*
+*You can develop your own module for Whatsbot. Check out the [wiki](https://github.com/Bustdah/whatsapp-bot/wiki/Development), It is very easy if you know Javascript.*
 
 ### How it works :
 - Opened whatsapp web in server using puppeteer
@@ -75,11 +52,9 @@ Read the [wiki](https://github.com/TheWhatsBot/WhatsBot/wiki/Deploy-with-Heroku)
 - [Musicder](https://github.com/cachecleanerjeet/Musicder "Musicder") & [Jiosaavn API ](https://github.com/cachecleanerjeet/JiosaavnAPI "Jiosaavn API ") - For Jiosaavn Module
 - [savefrom.net](https://savefrom.net/ "savefrom[dot]net") - For Youtube Module
 - [Weather API](https://github.com/cachecleanerjeet/weather-api "Weather API") - For Weather Module
+- [This originally repo whatsbot](https://github.com/TheWhatsBot/WhatsBot "WhatsBot") - For WhatsBot
 
 ### License & Copyright :
 - This Project is [Apache-2.0](https://github.com/TheWhatsBot/WhatsBot/blob/main/LICENSE) Licensed
 - Copyright 2020 by [Tuhin Kanti Pal](https://github.com/cachecleanerjeet)
 
-### Connect :
-- [Channel](https://telegram.dog/tprojects)
-- [Support Group](https://telegram.dog/t_projects)

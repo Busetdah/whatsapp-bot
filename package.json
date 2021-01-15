@@ -1,25 +1,25 @@
 {
-    "name": "whatsbot",
+    "name": "whatsapp-bot",
     "version": "1.0.0",
-    "description": "Plugable Userbot for WhatsApp",
+    "description": "Modular Userbot for WhatsApp",
     "main": "main.js",
     "scripts": {
         "start": "node main.js"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/TheWhatsBot/WhatsBot.git"
+        "url": "git+https://github.com/Busetdah/whatsapp-bot.git"
     },
     "keywords": [
         "Whatsapp-Userbot",
         "whatsapp-bot"
     ],
-    "author": "Tuhin Kanti Pal",
+    "author": "Aprianto Wahyu Pratama J",
     "license": "Apache-2.0",
     "bugs": {
-        "url": "https://github.com/TheWhatsBot/WhatsBot/issues"
+        "url": "https://github.com/Busetdah/whatsapp-bot/issues"
     },
-    "homepage": "https://github.com/TheWhatsBot/WhatsBot#readme",
+    "homepage": "https://github.com/Busetdah/whatsapp-bot#readme",
     "dependencies": {
         "@k3rn31p4nic/google-translate-api": "^1.1.1",
         "axios": "^0.21.0",
